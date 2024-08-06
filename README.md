@@ -28,10 +28,8 @@
         <h1>Contribution Activity</h1>
         <img src="https://github-readme-stats.vercel.app/api?username=benstr1702&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=6FDA44&icon_color=6FDA44&text_color=FFFFFF" alt="GitHub Stats" height="200" />
         <br>
-        <!--
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benstr1702&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
         <br>
-        -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=benstr1702&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
         <br>
