@@ -19,7 +19,7 @@
         </p>
         <ul>
             <li>🌱 <b>I’m currently learning</b>: React and Express development.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: Fullstack Weather App.</li>
+            <li>🎯 <b>I’m currently focusing on</b>: Propaganda.ai .</li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity</li>
             <li>😄 <b>Fun fact</b>: I love Coding(💻), Binging GOT(🔥), and Gaming(🕹️).</li>
         </ul>
